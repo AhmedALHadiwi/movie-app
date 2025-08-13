@@ -57,7 +57,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone (https://github.com/AhmedALHadiwi/movie-app.git)
+   git clone https://github.com/AhmedALHadiwi/movie-app.git
    cd movie-finder
    ```
 
